@@ -160,9 +160,21 @@ img {
     list-style-type: none;
     left: 40%;
     color: white;
+   
 }
 
-.companysection{
+.companysection ul li a{
+    margin:20px;
+    text-decoration: none;
+    font-size: 1.3em;
    
+    list-style-type: none ;
+}
 
+.productsection ul li a{
+    margin:20px;
+    text-decoration: none;
+    font-size: 1.3em;
+   
+    list-style-type: none ;
 }
